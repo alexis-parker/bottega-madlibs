@@ -10,4 +10,5 @@ const Input = ({title, state, name}, onChange, index) => {
     )
 }
 
+
 export default Input;
